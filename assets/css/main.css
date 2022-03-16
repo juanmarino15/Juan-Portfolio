@@ -2594,12 +2594,6 @@ input, select, textarea {
 		position: relative;
 	}
 
-	.image img.projects{
-		width:auto;
-		height: auto;
-
-	}
-
 		.image img {
 			display: block;
 		}
